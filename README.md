@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kevinbenavides1/osticket-prereqs)
   - [osTicket: Post Installation. Configuration](https://github.com/kevinbenavides1/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/kevinbenavides1/ticket-lifecycle)
 <!-- ## 👨‍💻 Information Technology Projects:
 - **[osTicket Prerequisites and Installation](https://github.com/kevinbenavides1/osticket-prereqs)** -->
 

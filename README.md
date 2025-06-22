@@ -10,6 +10,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <!-- ## 👨‍💻 Information Technology Projects:
 - **[osTicket Prerequisites and Installation](https://github.com/kevinbenavides1/osticket-prereqs)** -->
 
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kevinbenavides1/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+
+
+
 ## ⚠️ Vulnerability Management Projects:
 
 - **[Vulnerability Management Program Implementation](https://github.com/kevinbenavides1/vulnerability-management-program/tree/main)**

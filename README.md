@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - <b>Microsoft Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kevinbenavides1/configure_ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Common I.T. Issues & Resolutions](https://github.com/kevinbenavides1/I.T.-Issues)
 
 
 

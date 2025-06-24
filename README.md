@@ -15,15 +15,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
   - [Common I.T. Issues & Resolutions](https://github.com/kevinbenavides1/I.T.-Issues)
 
 
-<h2>:closed_lock_with_key:Cyber Security Projects:</h2>
+<!-- <h2>:closed_lock_with_key:Cyber Security Projects:</h2>
 
 - <b>⚠️ Vulnerability Management Projects:</b>
   - [Vulnerability Management Program Implementation](https://github.com/kevinbenavides1/vulnerability-management-program/tree/main)
-<!-- - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+ - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations:
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**-->
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)** -->
 
 <hr/>
 

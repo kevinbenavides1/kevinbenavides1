@@ -27,6 +27,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
+<h2>:closed_lock_with_key: Cybersecurity Projects:</h2>
+
+ - <b>Threat Hunting</b>
+     - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kevinbenavides1/threat-hunting-scenario)
+
+
+
 ## 🤳 Connect With Me
 
 <!--[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
